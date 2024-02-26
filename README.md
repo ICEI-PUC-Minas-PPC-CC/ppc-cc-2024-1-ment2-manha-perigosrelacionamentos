@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# Perigos em Aplicativos de Relacionamento
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II`
+`2024 - Semestre 1`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gustavo Silvestre Mingueti
+- Rafael Leite Firmino
+- Guilherme de Oliveira Ferreira
 
 ## Professor
 
-- Mestre Yoda
+- Professor Udo
+- Professora Luciana
 
 # Documentação
 
