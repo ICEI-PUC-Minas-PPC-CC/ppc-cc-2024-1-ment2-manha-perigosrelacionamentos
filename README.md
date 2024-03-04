@@ -9,7 +9,9 @@
 - Gustavo Silvestre Mingueti
 - Rafael Leite Firmino
 - Guilherme de Oliveira Ferreira
-- Benjamin Jacob Goncalves 
+- Benjamin Jacob Goncalves
+- João Guilherme da Silva Magne
+- Rafael de Castro Brito 
 
 ## Professor
 
