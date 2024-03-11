@@ -35,3 +35,10 @@
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
+## Objetivos
+
+- Saber quais são os perigos dos aplicativos de relacionamentos atualmente
+- Quais são os possíveis desafios a serem passados para que os problemas dos aplicativos de relacionamento se ajustem
+- Quais são os pontos positivos e negativos desses aplicativos
+- Saber como melhorar a usabilidade do aplicativo
+- Saber como obter uma segurança maior nesses aplicativos
