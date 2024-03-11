@@ -37,6 +37,9 @@
 
 ## Objetivos
 
+Objetivo geral: Sensibilizar usuários de aplicativos de relacionamento sobre os perigos e maus usos dos mesmos.
+
+Objetivos secundários:
 - Saber quais são os perigos dos aplicativos de relacionamentos atualmente
 - Quais são os possíveis desafios a serem passados para que os problemas dos aplicativos de relacionamento se ajustem
 - Quais são os pontos positivos e negativos desses aplicativos
