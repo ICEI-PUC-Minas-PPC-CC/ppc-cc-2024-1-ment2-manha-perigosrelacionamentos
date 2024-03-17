@@ -47,6 +47,19 @@ Exploraremos os sinais de alerta a serem observados, as medidas de segurança a 
 Vamos juntos explorar esse importante tema e contribuir para a construção de uma comunidade virtual mais segura e responsável.
 
 
+## Problema 
+
+Nos últimos anos, tem-se observado um aumento alarmante na proliferação de perfis falsos em aplicativos de relacionamento e na presença de scammer em contas de jogos online. Este fenômeno vai além das aparências superficiais e revela uma complexa rede de problemas que afetam profundamente a segurança, bem-estar emocional e integridade financeira dos usuários da internet.
+
+Este estudo aprofundado busca investigar os impactos profundos e multifacetados dos perfis falsos e scammer, destacando não apenas as consequências imediatas, mas também as implicações a longo prazo para as vítimas e para a comunidade online como um todo.
+
+Exploraremos a evolução das táticas utilizadas pelos scammers, desde a criação de perfis falsos convincentes até o uso de estratégias de manipulação psicológica. Além disso, examinaremos as falhas nas medidas de segurança implementadas pelas plataformas online e as dificuldades enfrentadas pelas autoridades em combater esses crimes cibernéticos.
+
+Ao analisar estudos de caso reais e dados estatísticos atualizados, buscamos destacar os impactos negativos na saúde mental, bem como os prejuízos financeiros significativos enfrentados pelas vítimas desses golpes. Além disso, discutiremos o papel crucial da educação e conscientização na proteção dos usuários contra essas ameaças online, propondo estratégias práticas para promover uma cultura de segurança digital.
+
+Este estudo pretende fornecer uma visão abrangente e holística dos desafios enfrentados pelos usuários em relação aos perfis falsos em aplicativos de relacionamento e scammer em contas de jogos online, destacando a urgência de soluções eficazes e medidas preventivas para garantir uma experiência online segura e positiva para todos os usuários.
+
+
 ## Objetivos
 
 Objetivo geral: Sensibilizar meninos e gamers, usuários de aplicativos de relacionamento, sobre os perigos e maus usos dos mesmos.
