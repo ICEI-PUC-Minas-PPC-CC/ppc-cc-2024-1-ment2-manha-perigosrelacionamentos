@@ -46,10 +46,6 @@ Exploraremos os sinais de alerta a serem observados, as medidas de segurança a 
 Vamos juntos explorar esse importante tema e contribuir para a construção de uma comunidade virtual mais segura e responsável.
 
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
 ## Objetivos
 
 Objetivo geral: Sensibilizar meninos e gamers, usuários de aplicativos de relacionamento, sobre os perigos e maus usos dos mesmos.
@@ -61,3 +57,8 @@ Objetivos secundários:
 - Saber como melhorar a usabilidade do aplicativo
 - Saber como obter uma segurança maior nesses aplicativos
 - Saber o por que o público gamer está mais inserido nesses aplicativos
+
+
+# Código Fonte
+
+<li><a href="src/README.md"> Código Fonte</a></li>
