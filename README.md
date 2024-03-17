@@ -31,7 +31,7 @@
 | ETAPA 7 | Preenchimento dos formulários referentes a prática extensionista no sistema APC | 
 | ETAPA 8 | Atualização do portfólio
 
-#Introdução 
+## Introdução 
 
 Nos dias de hoje, o advento da internet revolucionou a forma como nos conectamos e interagimos com outras pessoas. Com um simples clique, podemos conhecer indivíduos de diferentes partes do mundo, explorar novas culturas e até mesmo encontrar potenciais parceiros românticos. No entanto, essa facilidade de acesso também traz consigo uma série de desafios e perigos, especialmente no que diz respeito aos relacionamentos e encontros online.
 
