@@ -31,6 +31,7 @@
 | ETAPA 7 | Preenchimento dos formulários referentes a prática extensionista no sistema APC | 
 | ETAPA 8 | Atualização do portfólio
 
+
 ## Introdução 
 
 Nos dias de hoje, o advento da internet revolucionou a forma como nos conectamos e interagimos com outras pessoas. Com um simples clique, podemos conhecer indivíduos de diferentes partes do mundo, explorar novas culturas e até mesmo encontrar potenciais parceiros românticos. No entanto, essa facilidade de acesso também traz consigo uma série de desafios e perigos, especialmente no que diz respeito aos relacionamentos e encontros online.
@@ -45,9 +46,6 @@ Exploraremos os sinais de alerta a serem observados, as medidas de segurança a 
 
 Vamos juntos explorar esse importante tema e contribuir para a construção de uma comunidade virtual mais segura e responsável.
 
-## Público-alvo
-
-Sobre qual tópico se deve fornecer tratamento sobre dicas para não cair em perfis falsos em aplicativos de relacionamento, o público-alvo é bastante diversificado, pois pode afetar indivíduos de qualquer idade que usem esses aplicativos. Há novos usuários, que não têm experiência e podem não saber o que fazer nesses casos, até aqueles mais experientes, mas que podem não estar cientes dos perigos dos perfis falsos. Indivíduos que buscam relacionamentos sérios e estão vulneráveis emocionalmente podem ser particularmente suscetíveis. No entanto, há também aquelas com um alto nível de segurança online e até pais que desejam educar os filhos sobre esse assunto. Podendo variar diferentes idades e gêneros, de maioria adolescentes homens nos casos de jogos online, e no caso de aplicativos de relacionamentos, como o tinder, varia entre jovens e adultos
 
 ## Objetivos
 
@@ -60,6 +58,13 @@ Objetivos secundários:
 - Saber como melhorar a usabilidade do aplicativo
 - Saber como obter uma segurança maior nesses aplicativos
 - Saber o por que o público gamer está mais inserido nesses aplicativos
+
+
+## Público-alvo
+
+Sobre qual tópico se deve fornecer tratamento sobre dicas para não cair em perfis falsos em aplicativos de relacionamento, o público-alvo é bastante diversificado, pois pode afetar indivíduos de qualquer idade que usem esses aplicativos. Há novos usuários, que não têm experiência e podem não saber o que fazer nesses casos, até aqueles mais experientes, mas que podem não estar cientes dos perigos dos perfis falsos. Indivíduos que buscam relacionamentos sérios e estão vulneráveis emocionalmente podem ser particularmente suscetíveis. No entanto, há também aquelas com um alto nível de segurança online e até pais que desejam educar os filhos sobre esse assunto. Podendo variar diferentes idades e gêneros, de maioria adolescentes homens nos casos de jogos online, e no caso de aplicativos de relacionamentos, como o tinder, varia entre jovens e adultos
+
+
 
 
 # Código Fonte
