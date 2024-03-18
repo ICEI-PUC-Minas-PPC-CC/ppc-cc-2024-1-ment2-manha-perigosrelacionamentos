@@ -1,3 +1,5 @@
+# Persona 
+
 |**Pedro Paulo**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/blob/main/docs/img/pedro%20paulo.jfif" width="200" height="200"/>|**Idade:** 28 anos. **Naturalidade:** Betim - Minas Gerais. **Ocupação:** Medico.       |**Atribuições:** Medicar pacientes. 
@@ -9,6 +11,15 @@
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/blob/main/docs/img/imagem_2024-03-17_215643411.png" width="200" height="200"/>|**Idade:** 18 anos. **Naturalidade:** Rio de Janeiro-RJ. **Ocupação:** Estudante de Direito.       |**Atribuições:** Estudar. 
 |**Motivações:** Estudar muito para poder honrar sua familia que vem de origem humilde.  |**Frustações:** Amanda e sua mãe foram vítimas de um crime online, no qual o criminoso clonou o WhatsApp de Amanda e enviou mensagens à sua mãe solicitando dinheiro para pagar contas pessoais dela. A mãe, acreditando que era para sua filha, efetuou o pagamento ao criminoso.   |**Hobbies, história:** Almeja ser uma advogada de sucesso e se especializar em crimes cibernéticos.
 
+
+
+# História de Usuários 
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Pedro Paulo  | Assentar minha vida pessoal e sexual, por intermédio dos aplicativos de namoro online | Me relacionar com outras pessoas, mantendo minha segurança, sem colocar minha vida em risco.|
+|Amanda Silvestre | Não ter meus dados nem informações vazados na internet | Poder garantir a segurança minha e da minha família.|
+|Amanda Silvestre | Conscientizar usúarios sobre possíveis golpes e fraudes que acontecem na internet  | Evitar que as pessoas caíam nesses golpes. |
 
 
 
