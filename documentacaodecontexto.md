@@ -66,5 +66,5 @@ Sobre qual tópico se deve fornecer tratamento sobre dicas para não cair em per
 
 # Código Fonte
 
-<li><a href="src/referenciasbibliograficas.md"> Código Fonte</a></li>
+<li><a href="referenciasbibliograficas.md"> Código Fonte</a></li>
 
