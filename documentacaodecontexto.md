@@ -13,6 +13,7 @@ Exploraremos os sinais de alerta a serem observados, as medidas de segurança a 
 Vamos juntos explorar esse importante tema e contribuir para a construção de uma comunidade virtual mais segura e responsável.
 
 
+
 # Problema 
 
 Nos últimos anos, tem-se observado um aumento alarmante na proliferação de perfis falsos em aplicativos de relacionamento e na presença de scammer em contas de jogos online. Este fenômeno vai além das aparências superficiais e revela uma complexa rede de problemas que afetam profundamente a segurança, bem-estar emocional e integridade financeira dos usuários da internet.
@@ -26,6 +27,7 @@ Ao analisar estudos de caso reais e dados estatísticos atualizados, buscamos de
 Este estudo pretende fornecer uma visão abrangente e holística dos desafios enfrentados pelos usuários em relação aos perfis falsos em aplicativos de relacionamento e scammer em contas de jogos online, destacando a urgência de soluções eficazes e medidas preventivas para garantir uma experiência online segura e positiva para todos os usuários.
 
 
+
 # Objetivos
 
 Objetivo geral: Sensibilizar meninos e gamers, usuários de aplicativos de relacionamento, sobre os perigos e maus usos dos mesmos.
@@ -37,6 +39,8 @@ Objetivos secundários:
 - Saber como melhorar a usabilidade do aplicativo
 - Saber como obter uma segurança maior nesses aplicativos
 - Saber o por que o público gamer está mais inserido nesses aplicativos
+  
+
 
 # Justificativa
 
@@ -53,10 +57,10 @@ Objetivos secundários:
   Esses dados destacam a necessidade de educar e conscientizar as pessoas sobre os perigos potenciais de encontros com desconhecidos, bem como promover medidas de segurança, como verificar a identidade da pessoa, encontrar-se em locais públicos e informar amigos ou familiares sobre os planos de encontro. Ao abordar essas questões, podemos ajudar a proteger as pessoas e reduzir o número de incidentes prejudiciais relacionados a encontros com desconhecidos.
 
 
+
 # Público-alvo
 
 Sobre qual tópico se deve fornecer tratamento sobre dicas para não cair em perfis falsos em aplicativos de relacionamento, o público-alvo é bastante diversificado, pois pode afetar indivíduos de qualquer idade que usem esses aplicativos. Há novos usuários, que não têm experiência e podem não saber o que fazer nesses casos, até aqueles mais experientes, mas que podem não estar cientes dos perigos dos perfis falsos. Indivíduos que buscam relacionamentos sérios e estão vulneráveis emocionalmente podem ser particularmente suscetíveis. No entanto, há também aquelas com um alto nível de segurança online e até pais que desejam educar os filhos sobre esse assunto. Podendo variar diferentes idades e gêneros, de maioria adolescentes homens nos casos de jogos online, e no caso de aplicativos de relacionamentos, como o tinder, varia entre jovens e adultos
-
 
 
 
