@@ -7,7 +7,7 @@
 |**Amanda Silvestre**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/blob/main/docs/img/imagem_2024-03-17_215643411.png" width="200" height="200"/>|**Idade:** 18 anos. **Naturalidade:** Rio de Janeiro-RJ. **Ocupação:** Estudante de Direito.       |**Atribuições:** Estudar. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+|**Motivações:** Estudar muito para poder honrar sua familia que vem de origem humilde.  |**Frustações:** Amanda e sua mãe foram vítimas de um crime online, no qual o criminoso clonou o WhatsApp de Amanda e enviou mensagens à sua mãe solicitando dinheiro para pagar contas pessoais dela. A mãe, acreditando que era para sua filha, efetuou o pagamento ao criminoso.   |**Hobbies, história:** Almeja ser uma advogada de sucesso e se especializar em crimes cibernéticos.
 
 
 
