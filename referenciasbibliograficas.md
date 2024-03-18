@@ -15,4 +15,8 @@ CAPOMACCIO, Sandra. Vítimas de golpe ou de fraude, além da perda material, sof
 -Por Comunicarte Marketing e Comunicação, O que é segurança e qual sua real importância para o ser humano?, Blog ProSecurity, 7 de agosto de 2023,<https://prosecurity.com.br/blog/o-que-e-seguranca-2/#:~:text=A%20seguran%C3%A7a%20pessoal%20visa%20proteger,a%20contrata%C3%A7%C3%A3o%20de%20seguran%C3%A7as%20pessoais.]> Acesso 17/03/2024
 
 
+-Por realtime1, Pesquisa revela público alvo de golpistas em aplicativos de relacionamento, 19 de março de 2022, 
+<https://realtime1.com.br/tv/pesquisa-revela-publico-alvo-de-golpistas-em-aplicativos-de-relacionamento/> Acesso 17/03/2024
+
+
 
