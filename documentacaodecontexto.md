@@ -66,7 +66,7 @@ Sobre qual tópico se deve fornecer tratamento sobre dicas para não cair em per
 
 # Especificações do Projeto
 
-<li><a href="especificaçoesdoprojeto.md"> Código Fonte</a></li>
+<li><a href="especificaçoesdoprojeto.md"> Especificações do Projeto</a></li>
 
 
 
