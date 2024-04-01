@@ -4,7 +4,7 @@
 ### Educação e Qualidade.
 
 # 2) Detalhamento preliminar
-
+###Temas
 -Identidade Falsa: Discutir os riscos de interagir com pessoas que podem não ser quem afirmam ser online. Isso pode incluir perfis falsos em redes sociais, salas de bate-papo ou aplicativos de namoro, onde indivíduos podem mentir sobre sua idade, gênero, interesses ou intenções.
 
 -Grooming: Abordar o fenômeno do grooming, onde predadores online se fazem passar por crianças ou adolescentes para ganhar a confiança de jovens e, eventualmente, explorá-los sexualmente, emocionalmente ou financeiramente.
