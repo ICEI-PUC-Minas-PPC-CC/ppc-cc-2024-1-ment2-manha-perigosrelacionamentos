@@ -1,7 +1,7 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-### Saúde e Bem-estar,
-### Educação e Qualidade.
+### 3_Saúde e Bem-estar,
+### 4_Educação e Qualidade.
 
 # 2) Detalhamento preliminar
 ### Temas
