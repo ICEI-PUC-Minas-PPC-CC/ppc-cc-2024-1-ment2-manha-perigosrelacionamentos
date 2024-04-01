@@ -23,7 +23,7 @@
 # Projeto de Interface
 
 - Palestra sobre os temas abordados
-- Criação de um site de ajuda e conscientzação
+- Criação de um site de ajuda e conscientização
 - Criação de uma conta de instagram para a comunicação com o público
 
 ## Cronograma preliminar
