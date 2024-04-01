@@ -22,7 +22,7 @@
 
 # Projeto de Interface
 
-- Palestra sobre os temas abordados
+- Palestra sobre os temas abordados, com slides e links
 - Criação de um site de ajuda e conscientização
 - Criação de uma conta de instagram para a comunicação com o público
 
