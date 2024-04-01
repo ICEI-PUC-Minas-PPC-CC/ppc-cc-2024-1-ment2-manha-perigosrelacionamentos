@@ -1,11 +1,7 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização das Nações Unidas) para as cidades, como parte da Agenda 2023, abrangem diferentes temas relacionados a aspectos sociais e ambientais.
-
-Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
-
-> Links úteis:
-> - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
+3- Saúde e Bem-estar
+4- Educação e Qualidade
 
 # 2) Detalhamento preliminar
 
