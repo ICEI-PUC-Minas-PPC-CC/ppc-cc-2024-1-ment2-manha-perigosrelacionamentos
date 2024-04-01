@@ -21,7 +21,9 @@
 
 
 ## Projeto de Interface
-
+- Palestra sobre os temas abordados
+- criação de um site de ajuda e conscientzação
+- criação de uma conta de instagram para a comunicação com o público
 
 ## Cronograma preliminar
 
