@@ -20,10 +20,11 @@
 - Educação Digital: Promover uma educação digital abrangente, incluindo habilidades de discernimento online, pensamento crítico, comportamento ético e segurança cibernética para capacitar os alunos a tomar decisões informadas e responsáveis em seu comportamento online.
 
 
-### Projeto de Interface
-- Palestra sobre os temas abordados
-- criação de um site de ajuda e conscientzação
-- criação de uma conta de instagram para a comunicação com o público
+## Projeto de Interface
+
+### - Palestra sobre os temas abordados
+### - Criação de um site de ajuda e conscientzação
+### - Criação de uma conta de instagram para a comunicação com o público
 
 ## Cronograma preliminar
 
