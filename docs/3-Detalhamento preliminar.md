@@ -38,9 +38,6 @@
 |6| Recursos de Apoio Online | 10-15 minutos |
 |7| Educação Digital | 10-15 minutos |
 |8| Encerramento e sessão de perguntas e respostas | 5 minutos |
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
 
 
 
