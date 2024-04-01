@@ -33,13 +33,13 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Identidade Falsa | 10 minutos |
-|2| Grooming | 10 minutos |
-|3| Consequências Emocionais | 10 minutos |
-|4| Segurança de Dados e Privacidade | 10 minutos |
-|5| Fraudes e Golpes | 10 minutos |
-|6| Recursos de Apoio Online | 5 minutos |
-|7| Educação Digital | 10 minutos |
+|1| Identidade Falsa | 10-15 minutos |
+|2| Grooming | 15-20 minutos |
+|3| Consequências Emocionais | 10-15 minutos |
+|4| Segurança de Dados e Privacidade | 10-15 minutos |
+|5| Fraudes e Golpes | 10-15 minutos |
+|6| Recursos de Apoio Online | 10-15 minutos |
+|7| Educação Digital | 10-15 minutos |
 |8| Encerramento e sessão de perguntas e respostas | 5 minutos |
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 
