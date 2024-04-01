@@ -20,6 +20,9 @@
 - Educação Digital: Promover uma educação digital abrangente, incluindo habilidades de discernimento online, pensamento crítico, comportamento ético e segurança cibernética para capacitar os alunos a tomar decisões informadas e responsáveis em seu comportamento online.
 
 
+## Projeto de Interface
+
+
 ## Cronograma preliminar
 
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
