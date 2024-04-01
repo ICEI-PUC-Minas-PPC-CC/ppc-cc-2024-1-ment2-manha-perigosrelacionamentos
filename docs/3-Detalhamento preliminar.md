@@ -28,9 +28,6 @@
 
 ## Cronograma preliminar
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
-
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Identidade Falsa | 10-15 minutos |
