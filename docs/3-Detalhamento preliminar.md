@@ -33,9 +33,14 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
+|1| Identidade Falsa | 10 minutos |
+|2| Grooming | 10 minutos |
+|3| Consequências Emocionais | 10 minutos |
+|4| Segurança de Dados e Privacidade | 10 minutos |
+|5| Fraudes e Golpes | 10 minutos |
+|6| Recursos de Apoio Online | 5 minutos |
+|7| Educação Digital | 10 minutos |
+|8| Encerramento e sessão de perguntas e respostas | 5 minutos |
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 
 Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
