@@ -5,11 +5,19 @@
 
 # 2) Detalhamento preliminar
 
-Esta seção deverá ser adaptada a proposta do grupo, de forma que:
-a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
-b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
-c) Caso seu grupo tenha realizado alguma pesquisa de campo, entrevistas ou reuniões com representantes do público-alvo, os registros das entrevistas/reuniões, os resultados obtidos e as conclusões encontradas deverão ser descritas aqui.
-Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a serem entregues nesta etapa deverão ser alinhados junto com seu(sua) professor(a).
+-Identidade Falsa: Discutir os riscos de interagir com pessoas que podem não ser quem afirmam ser online. Isso pode incluir perfis falsos em redes sociais, salas de bate-papo ou aplicativos de namoro, onde indivíduos podem mentir sobre sua idade, gênero, interesses ou intenções.
+
+-Grooming: Abordar o fenômeno do grooming, onde predadores online se fazem passar por crianças ou adolescentes para ganhar a confiança de jovens e, eventualmente, explorá-los sexualmente, emocionalmente ou financeiramente.
+
+-Consequências Emocionais: Explorar os impactos emocionais negativos de relacionamentos online problemáticos, incluindo sentimentos de isolamento, baixa autoestima, ansiedade, depressão e dependência emocional.
+
+-Segurança de Dados e Privacidade: Alertar sobre os riscos de segurança de dados e violações de privacidade em relacionamentos online, como o compartilhamento não autorizado de informações pessoais, phishing e roubo de identidade.
+
+-Fraudes e Golpes: Informar sobre os diferentes tipos de fraudes e golpes online que podem ocorrer em relacionamentos, como fraudes românticas, esquemas de pirâmide, phishing de informações financeiras e solicitações de dinheiro.
+
+-Recursos de Apoio Online: Orientar os alunos sobre os recursos disponíveis para ajudá-los a navegar de forma segura e saudável nos relacionamentos online, como linhas de ajuda, fóruns de suporte, ferramentas de bloqueio e configurações de privacidade.
+
+-Educação Digital: Promover uma educação digital abrangente, incluindo habilidades de discernimento online, pensamento crítico, comportamento ético e segurança cibernética para capacitar os alunos a tomar decisões informadas e responsáveis em seu comportamento online.
 
 ## Projeto de Interface
 
