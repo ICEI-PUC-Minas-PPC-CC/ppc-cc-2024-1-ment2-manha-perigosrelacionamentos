@@ -5,19 +5,19 @@
 
 # 2) Detalhamento preliminar
 ### Temas
--Identidade Falsa: Discutir os riscos de interagir com pessoas que podem não ser quem afirmam ser online. Isso pode incluir perfis falsos em redes sociais, salas de bate-papo ou aplicativos de namoro, onde indivíduos podem mentir sobre sua idade, gênero, interesses ou intenções.
+- Identidade Falsa: Discutir os riscos de interagir com pessoas que podem não ser quem afirmam ser online. Isso pode incluir perfis falsos em redes sociais, salas de bate-papo ou aplicativos de namoro, onde indivíduos podem mentir sobre sua idade, gênero, interesses ou intenções.
 
--Grooming: Abordar o fenômeno do grooming, onde predadores online se fazem passar por crianças ou adolescentes para ganhar a confiança de jovens e, eventualmente, explorá-los sexualmente, emocionalmente ou financeiramente.
+- Grooming: Abordar o fenômeno do grooming, onde predadores online se fazem passar por crianças ou adolescentes para ganhar a confiança de jovens e, eventualmente, explorá-los sexualmente, emocionalmente ou financeiramente.
 
--Consequências Emocionais: Explorar os impactos emocionais negativos de relacionamentos online problemáticos, incluindo sentimentos de isolamento, baixa autoestima, ansiedade, depressão e dependência emocional.
+- Consequências Emocionais: Explorar os impactos emocionais negativos de relacionamentos online problemáticos, incluindo sentimentos de isolamento, baixa autoestima, ansiedade, depressão e dependência emocional.
 
--Segurança de Dados e Privacidade: Alertar sobre os riscos de segurança de dados e violações de privacidade em relacionamentos online, como o compartilhamento não autorizado de informações pessoais, phishing e roubo de identidade.
+- Segurança de Dados e Privacidade: Alertar sobre os riscos de segurança de dados e violações de privacidade em relacionamentos online, como o compartilhamento não autorizado de informações pessoais, phishing e roubo de identidade.
 
--Fraudes e Golpes: Informar sobre os diferentes tipos de fraudes e golpes online que podem ocorrer em relacionamentos, como fraudes românticas, esquemas de pirâmide, phishing de informações financeiras e solicitações de dinheiro.
+- Fraudes e Golpes: Informar sobre os diferentes tipos de fraudes e golpes online que podem ocorrer em relacionamentos, como fraudes românticas, esquemas de pirâmide, phishing de informações financeiras e solicitações de dinheiro.
 
--Recursos de Apoio Online: Orientar os alunos sobre os recursos disponíveis para ajudá-los a navegar de forma segura e saudável nos relacionamentos online, como linhas de ajuda, fóruns de suporte, ferramentas de bloqueio e configurações de privacidade.
+- Recursos de Apoio Online: Orientar os alunos sobre os recursos disponíveis para ajudá-los a navegar de forma segura e saudável nos relacionamentos online, como linhas de ajuda, fóruns de suporte, ferramentas de bloqueio e configurações de privacidade.
 
--Educação Digital: Promover uma educação digital abrangente, incluindo habilidades de discernimento online, pensamento crítico, comportamento ético e segurança cibernética para capacitar os alunos a tomar decisões informadas e responsáveis em seu comportamento online.
+- Educação Digital: Promover uma educação digital abrangente, incluindo habilidades de discernimento online, pensamento crítico, comportamento ético e segurança cibernética para capacitar os alunos a tomar decisões informadas e responsáveis em seu comportamento online.
 
 ## Projeto de Interface
 
