@@ -49,25 +49,25 @@ Objetivos secundários:
   - Segurança: Segundo a Pro Security a segurança pessoal visa proteger a integridade física e psicológica de uma pessoa. Ela pode ser realizada por meio de medidas preventivas, como evitar locais perigosos, ou por meio de medidas reativas, como a contratação de seguranças pessoais. Encontros com pessoas desconhecidas, especialmente aqueles iniciados online por meio de aplicativos de namoro, apresentam riscos substanciais devido à falta de familiaridade e confiança mútua.
 
 
-   -Por Comunicarte Marketing e Comunicação, O que é segurança e qual sua real importância para o ser humano?, Blog ProSecurity, 7 de agosto de 2023, https://prosecurity.com.br/blog/o-que-e-seguranca-2/#:~:text=A%20seguran%C3%A7a%20pessoal%20visa%20proteger,a%20contrata%C3%A7%C3%A3o%20de%20seguran%C3%A7as%20pessoais.%5D] Acesso 17/03 /2024
+ Por Comunicarte Marketing e Comunicação, O que é segurança e qual sua real importância para o ser humano?, Blog ProSecurity, 7 de agosto de 2023, https://prosecurity.com.br/blog/o-que-e-seguranca-2/#:~:text=A%20seguran%C3%A7a%20pessoal%20visa%20proteger,a%20contrata%C3%A7%C3%A3o%20de%20seguran%C3%A7as%20pessoais.%5D] Acesso 17/03 /2024
     
   
   - Aumento da Frequência Uso de Aplicativos de Encontros: O Tinder, o aplicativo de relacionamento mais baixado do mundo, alcançou a marca de 3 bilhões de swipes (quando o usuário desliza a foto de um pretendente para a esquerda ou para a direita no intuito de curtir ou não) em um único dia, em março de 2020 — e bateu esse recorde mais de 100 vezes desde então. Com o crescimento do uso de aplicativos de encontros e redes sociais, mais pessoas estão se encontrando com desconhecidos. Isso aumenta a necessidade de conscientização sobre os possíveis perigos e medidas de segurança a serem tomadas.
    
 
-  - -Organização BBC,O lado sombrio dos aplicativos de relacionamento, BBC NEWS BRASIL, 31 de julho de 2021, < https://www.bbc.com/portuguese/vert-cap-57886015 > Acesso 17/03/2024
+ Organização BBC,O lado sombrio dos aplicativos de relacionamento, BBC NEWS BRASIL, 31 de julho de 2021, < https://www.bbc.com/portuguese/vert-cap-57886015 > Acesso 17/03/2024
    
 
   - Casos de Crimes Relacionados a Encontros Online: A Secretaria da Segurança Pública de São Paulo (SSP) afirmou à BBC News Brasil que "mais de 90% dos sequestros registrados em São Paulo são feitos a partir de relacionamentos formados a partir de perfis falsos criados em aplicativos como o Tinder. Isso inclui agressões físicas, assaltos, estupros e até mesmo homicídios. Esses eventos destacam a necessidade urgente de educar as pessoas sobre os perigos potenciais e como se proteger.
   
 
-  -Organização BBC. 9 em cada 10 sequestros de SP são 'golpes do Tinder'; entenda como agem os criminosos, BBC NEWS BRASIL, São Paulo-SP, 29 novembro 2022, Atualizado 1 dezembro 2022, < https://www.bbc.com/portuguese/brasil-63733202#:~:text=O%20crime%20mais%20comum%20que,meio%20desses%20relacionamentos%22%2C%20afirma.> Acesso 17/03/2024
+Organização BBC. 9 em cada 10 sequestros de SP são 'golpes do Tinder'; entenda como agem os criminosos, BBC NEWS BRASIL, São Paulo-SP, 29 novembro 2022, Atualizado 1 dezembro 2022, < https://www.bbc.com/portuguese/brasil-63733202#:~:text=O%20crime%20mais%20comum%20que,meio%20desses%20relacionamentos%22%2C%20afirma.> Acesso 17/03/2024
   
 
   - Impacto Psicológico e Emocional: Segundo o G1, Nesta sexta-feira (14), a instituição divulgou a apreensão de um adolescente de 16 anos, em Belo Horizonte, suspeito de crimes virtuais. As investigações identificaram episódios de indução ao suicídio, estupro de vulnerável, tortura e indução a zoofilia. Além dos danos físicos podem causar sérios danos psicológicos e emocionais às vítimas. Esses traumas podem persistir por muito tempo e afetar significativamente a saúde mental e o bem-estar das pessoas.
    
 
-  - -Por Rafaela Mansur, Discord: vítimas de criminosos que usam plataforma são garotas vulneráveis, diz polícia; saiba como ficar atento aos sinais ,g1 Minas — Belo Horizonte, 14/07/2023 17h31 Atualizado há 8 meses, https://g1.globo.com/mg/minas-gerais/noticia/2023/07/14/discord- vitimas-de-criminosos-que-usam-plataforma-sao-garotas-vulneraveis-diz-policia-saiba-como-ficar-atento-aos-sinais.ghtml Acesso 17/03/2024
+Por Rafaela Mansur, Discord: vítimas de criminosos que usam plataforma são garotas vulneráveis, diz polícia; saiba como ficar atento aos sinais ,g1 Minas — Belo Horizonte, 14/07/2023 17h31 Atualizado há 8 meses, https://g1.globo.com/mg/minas-gerais/noticia/2023/07/14/discord- vitimas-de-criminosos-que-usam-plataforma-sao-garotas-vulneraveis-diz-policia-saiba-como-ficar-atento-aos-sinais.ghtml Acesso 17/03/2024
    
 
   Esses dados destacam a necessidade de educar e conscientizar as pessoas sobre os perigos potenciais de encontros com desconhecidos, bem como promover medidas de segurança, como verificar a identidade da pessoa, encontrar-se em locais públicos e informar amigos ou familiares sobre os planos de encontro. Ao abordar essas questões, podemos ajudar a proteger as pessoas e reduzir o número de incidentes prejudiciais relacionados a encontros com desconhecidos.
