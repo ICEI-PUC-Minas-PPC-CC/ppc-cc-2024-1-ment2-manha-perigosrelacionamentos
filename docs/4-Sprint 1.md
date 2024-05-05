@@ -1,5 +1,2 @@
-# Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
-
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/blob/main/Navegando-com-Seguranca-no-Mundo-Digital%20(1).pdf" width="200" height="200"/>
