@@ -1,1 +1,1 @@
-[Navegando-com-Seguranca-no-Mundo-Digital (1).pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/files/15214632/Navegando-com-Seguranca-no-Mundo-Digital.1.pdf)
+<img src="[Navegando-com-Seguranca-no-Mundo-Digital.1 (2)_page-0001.jpg](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/blob/main/Navegando-com-Seguranca-no-Mundo-Digital.1%20(2)_page-0001.jpg)" width="4800" height="2700"/>
