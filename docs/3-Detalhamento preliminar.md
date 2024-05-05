@@ -23,7 +23,6 @@
 # Projeto de Interface
 
 - Palestra sobre os temas abordados, com slides e links
-- Criação de um site de ajuda e conscientização
 - Criação de uma conta de instagram para a comunicação com o público
 - Sala (com datashow) de capacidade de 20-30 alunos
 
