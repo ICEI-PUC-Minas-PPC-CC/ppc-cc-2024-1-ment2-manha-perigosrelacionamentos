@@ -11,7 +11,7 @@
 
 - Consequências Emocionais: Explorar os impactos emocionais negativos de relacionamentos online problemáticos, incluindo sentimentos de isolamento, baixa autoestima, ansiedade, depressão e dependência emocional.
 
-- Segurança de Dados e Privacidade: Alertar sobre os riscos de segurança de dados e violações de privacidade em relacionamentos online, como o compartilhamento não autorizado de informações pessoais, phishing e roubo de identidade.
+- Segurança de Dados e Privacidade: Alertar sobre os riscos de segurança de dados e violações de privacidade, como o compartilhamento não autorizado de informações pessoais, phishing e roubo de identidade.
 
 - Fraudes e Golpes: Informar sobre os diferentes tipos de fraudes e golpes online que podem ocorrer em relacionamentos, como fraudes românticas, esquemas de pirâmide, phishing de informações financeiras e solicitações de dinheiro.
 
