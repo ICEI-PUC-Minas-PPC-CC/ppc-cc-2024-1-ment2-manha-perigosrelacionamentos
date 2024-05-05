@@ -1,6 +1,6 @@
 # Perigos em Aplicativos de Relacionamento
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
+`PPC-CC: PUC Poços de Caldas - Ciência da Computação` 
 `Disciplina: Mentoring II`
 `2024 - Semestre 1`
 
