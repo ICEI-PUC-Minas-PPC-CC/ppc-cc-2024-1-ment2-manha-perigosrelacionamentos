@@ -25,6 +25,7 @@
 - Palestra sobre os temas abordados, com slides e links
 - Criação de uma conta de instagram para a comunicação com o público
 - Sala (com datashow) de capacidade de 20-30 alunos
+- Utilização do kahoot(plataforma usada como tecnologia educacional) 
 
 ## Cronograma preliminar
 
