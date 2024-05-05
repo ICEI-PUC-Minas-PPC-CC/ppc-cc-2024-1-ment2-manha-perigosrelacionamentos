@@ -1,4 +1,4 @@
-##SLIDES
+##SLIDES 
 ![Perigos-no-Relacionamento-Online-Uma-Palestra-Sobre-Seguranca-Digital (2)-1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/assets/104238793/06719204-f094-4c7d-8d5e-45a032a480b3)
 
 ![Perigos-no-Relacionamento-Online-Uma-Palestra-Sobre-Seguranca-Digital (2)-2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-perigosrelacionamentos/assets/104238793/d6b131bd-7443-4853-9daa-f47dd4f3651d)
