@@ -11,7 +11,8 @@
 - Guilherme de Oliveira Ferreira
 - Benjamin Jacob Goncalves
 - João Guilherme da Silva Magne
-- Rafael de Castro Brito 
+- Rafael de Castro Brito
+
 
 ## Professor
 
