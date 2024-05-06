@@ -13,7 +13,6 @@
 - João Guilherme da Silva Magne
 - Rafael de Castro Brito
 
-
 ## Professor
 
 - Professor Udo
